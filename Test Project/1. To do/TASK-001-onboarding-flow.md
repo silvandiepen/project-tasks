@@ -1,10 +1,10 @@
 ---
 id: TASK-001
-title: "Design onboarding flow"
-project: "Test Project"
+title: Design onboarding flow
+project: Test Project
 status: to-do
 priority: P1
-type: feature
+type: Feature
 assignee: sil
 order: 2
 ---
