@@ -6,7 +6,7 @@ status: in-review
 priority: P1
 type: feature
 assignee: sil
-order: "2"
+order: 1
 ---
 
 # Drag and drop
