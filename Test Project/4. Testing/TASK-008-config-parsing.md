@@ -6,7 +6,7 @@ status: testing
 priority: P1
 type: bug
 assignee: sil
-order: 2
+order: 3
 ---
 
 # Project config parsing

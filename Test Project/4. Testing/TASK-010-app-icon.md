@@ -6,7 +6,7 @@ status: testing
 priority: P3
 type: chore
 assignee: sil
-order: 3
+order: 2
 ---
 
 # Add app icon
