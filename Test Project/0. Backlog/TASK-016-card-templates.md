@@ -6,7 +6,7 @@ status: backlog
 priority: P3
 type: feature
 assignee: jordan
-order: "6"
+order: 5
 ---
 
 # Card templates

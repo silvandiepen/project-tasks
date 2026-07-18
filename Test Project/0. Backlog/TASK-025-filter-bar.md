@@ -6,7 +6,7 @@ status: backlog
 priority: P1
 type: enhancement
 assignee: sam
-order: "15"
+order: 14
 ---
 
 # Board filter bar

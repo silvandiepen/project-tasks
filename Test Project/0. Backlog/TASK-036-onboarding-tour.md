@@ -6,7 +6,7 @@ status: backlog
 priority: P3
 type: feature
 assignee: jordan
-order: "26"
+order: 25
 ---
 
 # Interactive onboarding tour

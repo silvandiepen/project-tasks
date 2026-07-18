@@ -6,7 +6,7 @@ status: backlog
 priority: P3
 type: enhancement
 assignee: alex
-order: "25"
+order: 24
 ---
 
 # Configurable lane colours

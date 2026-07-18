@@ -6,7 +6,7 @@ status: backlog
 priority: P3
 type: feature
 assignee: sam
-order: "7"
+order: 6
 ---
 
 # Per-project activity feed

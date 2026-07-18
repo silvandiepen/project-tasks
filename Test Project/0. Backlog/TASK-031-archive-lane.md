@@ -6,7 +6,7 @@ status: backlog
 priority: P2
 type: feature
 assignee: alex
-order: "21"
+order: 20
 ---
 
 # Archive instead of delete

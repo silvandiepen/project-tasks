@@ -6,7 +6,7 @@ status: backlog
 priority: P2
 type: feature
 assignee: jordan
-order: "14"
+order: 13
 ---
 
 # Epics roll-up view

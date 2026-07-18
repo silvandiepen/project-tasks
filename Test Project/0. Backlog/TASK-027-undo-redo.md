@@ -6,7 +6,7 @@ status: backlog
 priority: P1
 type: feature
 assignee: alex
-order: "17"
+order: 16
 ---
 
 # Undo/redo for card actions

@@ -6,7 +6,7 @@ status: backlog
 priority: P3
 type: feature
 assignee: sil
-order: "28"
+order: 27
 ---
 
 # Export board to CSV / JSON

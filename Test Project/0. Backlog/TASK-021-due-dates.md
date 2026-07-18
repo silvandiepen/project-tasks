@@ -6,7 +6,7 @@ status: backlog
 priority: P2
 type: feature
 assignee: sam
-order: "11"
+order: 10
 ---
 
 # Due dates and reminders

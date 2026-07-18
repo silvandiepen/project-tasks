@@ -6,7 +6,7 @@ status: backlog
 priority: P2
 type: feature
 assignee: alex
-order: "1"
+order: 1
 ---
 
 # Mobile companion app

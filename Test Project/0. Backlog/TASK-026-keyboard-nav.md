@@ -6,7 +6,7 @@ status: backlog
 priority: P2
 type: enhancement
 assignee: sil
-order: "16"
+order: 15
 ---
 
 # Keyboard navigation on the board

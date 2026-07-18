@@ -6,7 +6,7 @@ status: backlog
 priority: P1
 type: feature
 assignee: jordan
-order: "10"
+order: 9
 ---
 
 # Global card search

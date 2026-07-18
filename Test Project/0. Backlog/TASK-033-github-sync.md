@@ -6,7 +6,7 @@ status: backlog
 priority: P1
 type: feature
 assignee: sam
-order: "23"
+order: 22
 ---
 
 # Two-way GitHub Issues sync

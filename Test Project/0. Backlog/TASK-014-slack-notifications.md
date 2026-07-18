@@ -6,7 +6,7 @@ status: backlog
 priority: P3
 type: feature
 assignee: sil
-order: "4"
+order: 3
 ---
 
 # Slack notifications

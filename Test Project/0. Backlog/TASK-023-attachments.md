@@ -6,7 +6,7 @@ status: backlog
 priority: P3
 type: feature
 assignee: alex
-order: "13"
+order: 12
 ---
 
 # Image attachments on cards

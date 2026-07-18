@@ -6,7 +6,7 @@ status: backlog
 priority: P2
 type: enhancement
 assignee: sil
-order: "8"
+order: 7
 ---
 
 # WIP limits per lane

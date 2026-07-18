@@ -6,7 +6,7 @@ status: backlog
 priority: P2
 type: feature
 assignee: alex
-order: "29"
+order: 28
 ---
 
 # Agent actions via MCP

@@ -6,7 +6,7 @@ status: backlog
 priority: P2
 type: feature
 assignee: alex
-order: "5"
+order: 4
 ---
 
 # Command palette (⌘K)

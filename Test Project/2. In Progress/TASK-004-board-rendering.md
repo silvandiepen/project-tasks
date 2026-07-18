@@ -6,7 +6,7 @@ status: in-progress
 priority: P0
 type: feature
 assignee: sil
-order: "1"
+order: 1
 ---
 
 # Render board columns

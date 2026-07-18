@@ -6,7 +6,7 @@ status: backlog
 priority: P2
 type: enhancement
 assignee: sil
-order: "20"
+order: 19
 ---
 
 # Bulk field editing

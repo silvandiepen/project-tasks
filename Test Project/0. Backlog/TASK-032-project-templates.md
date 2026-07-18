@@ -6,7 +6,7 @@ status: backlog
 priority: P3
 type: feature
 assignee: jordan
-order: "22"
+order: 21
 ---
 
 # Project templates

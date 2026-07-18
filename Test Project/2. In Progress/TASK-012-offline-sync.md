@@ -2,11 +2,11 @@
 id: TASK-012
 title: "Offline sync + conflict resolution"
 project: "Test Project"
-status: backlog
+status: in-progress
 priority: P1
 type: feature
 assignee: jordan
-order: "2"
+order: 3
 ---
 
 # Offline sync

@@ -6,7 +6,7 @@ status: backlog
 priority: P3
 type: feature
 assignee: alex
-order: "9"
+order: 8
 ---
 
 # Swimlanes by assignee
