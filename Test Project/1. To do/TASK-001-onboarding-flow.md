@@ -6,7 +6,7 @@ status: to-do
 priority: P1
 type: feature
 assignee: sil
-order: "1"
+order: 1
 ---
 
 # Design onboarding flow

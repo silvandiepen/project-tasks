@@ -6,7 +6,7 @@ status: to-do
 priority: P3
 type: enhancement
 assignee: jordan
-order: "3"
+order: 2
 ---
 
 # Keyboard shortcuts
