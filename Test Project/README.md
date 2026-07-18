@@ -2,6 +2,11 @@
 config: project
 project: "Test Project"
 lanes:
+  - id: backlog
+    name: Backlog
+    folder: "0. Backlog"
+    status: backlog
+    backlog: true
   - id: to-do
     name: "To do"
     folder: "1. To do"
