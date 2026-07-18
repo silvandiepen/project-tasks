@@ -6,7 +6,7 @@ status: testing
 priority: P2
 type: feature
 assignee: sil
-order: "1"
+order: 1
 ---
 
 # Empty state

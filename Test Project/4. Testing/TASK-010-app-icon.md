@@ -2,11 +2,11 @@
 id: TASK-010
 title: "Add app icon"
 project: "Test Project"
-status: done
+status: testing
 priority: P3
 type: chore
 assignee: sil
-order: "2"
+order: 3
 ---
 
 # Add app icon

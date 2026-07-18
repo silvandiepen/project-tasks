@@ -6,7 +6,7 @@ status: done
 priority: P0
 type: feature
 assignee: sil
-order: "1"
+order: 1
 ---
 
 # Connect a git repository
