@@ -5,6 +5,7 @@ project: "Test Project"
 status: to-do
 priority: P3
 type: enhancement
+assignee: jordan
 order: "3"
 ---
 

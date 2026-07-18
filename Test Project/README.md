@@ -33,6 +33,19 @@ priorities:
   - id: P1
   - id: P2
   - id: P3
+users:
+  - id: sil
+    name: "Sil van Diepen"
+    role: maintainer
+  - id: alex
+    name: "Alex Rivera"
+    role: developer
+  - id: jordan
+    name: "Jordan Lee"
+    role: developer
+  - id: sam
+    name: "Sam Okoro"
+    role: designer
 ---
 
 # Test Project

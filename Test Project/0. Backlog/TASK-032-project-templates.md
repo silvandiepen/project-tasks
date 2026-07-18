@@ -5,6 +5,7 @@ project: "Test Project"
 status: backlog
 priority: P3
 type: feature
+assignee: jordan
 order: "22"
 ---
 

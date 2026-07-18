@@ -5,6 +5,7 @@ project: "Test Project"
 status: backlog
 priority: P2
 type: feature
+assignee: sam
 order: "11"
 ---
 

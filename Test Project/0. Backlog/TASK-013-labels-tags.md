@@ -5,6 +5,7 @@ project: "Test Project"
 status: backlog
 priority: P3
 type: enhancement
+assignee: sam
 order: "3"
 ---
 
