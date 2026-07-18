@@ -2,7 +2,7 @@
 id: TASK-002
 title: "Add dark mode support"
 project: "Test Project"
-status: to-do
+status: in-progress
 priority: P2
 type: feature
 order: "2"
