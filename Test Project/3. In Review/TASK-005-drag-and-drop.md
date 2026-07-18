@@ -2,7 +2,7 @@
 id: TASK-005
 title: "Drag and drop between lanes"
 project: "Test Project"
-status: in-progress
+status: in-review
 priority: P1
 type: feature
 assignee: sil
