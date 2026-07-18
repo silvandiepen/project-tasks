@@ -6,7 +6,7 @@ status: in-progress
 priority: P2
 type: feature
 assignee: sam
-order: 2
+order: 1
 ---
 
 # Add dark mode support
